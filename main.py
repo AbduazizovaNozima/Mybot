@@ -5,7 +5,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 import re
 
-TOKEN = '7864725145:AAGd1cYg9nhD2ANqJZosvY2HYRIWXSjM9kM'
+TOKEN = '7864725145:AAGoT3BWPa7cdiQPxuzirG-sOK4MqihijZg'
 bot = Bot(token=TOKEN)
 
 PHONE_REGEX = r"\+998[0-9]{9}"
